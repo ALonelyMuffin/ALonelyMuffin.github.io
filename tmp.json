@@ -1,0 +1,19 @@
+[
+    {
+        "nombre": "nombre-producto",
+        "costo": 1.00,
+        "compartido": false
+    },
+
+    {
+        "nombre": "Galletas Alipende",
+        "costo": 1.10,
+        "compartido": false
+    },
+
+    {
+        "nombre": "Levadura",
+        "costo": 0.35,
+        "compartido": false
+    }
+]
